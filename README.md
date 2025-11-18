@@ -136,12 +136,6 @@ All random seeds fixed (random_state=42). Complete pipeline runs in ~10 minutes 
 
 MIT License - Free to use for educational and research purposes.
 
-## Author
-
-[Tu nombre]  
-[LinkedIn/Email]  
-[GitHub: @tu-username]
-
 ---
 
 **Note:** This project demonstrates chemoinformatics workflow design and ML interpretability. Predictions are not validated experimentally and should not be used for clinical decisions.
