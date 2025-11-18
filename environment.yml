@@ -1,0 +1,22 @@
+name: braf-qsar
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - rdkit
+  - pandas
+  - numpy
+  - scikit-learn
+  - xgboost
+  - lightgbm
+  - matplotlib
+  - seaborn
+  - plotly
+  - jupyter
+  - ipykernel
+  - shap
+  - umap-learn
+  - pip
+  - pip:
+      - chembl-webresource-client
